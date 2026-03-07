@@ -1,0 +1,4 @@
+name,age,city,active
+Alice,30,NYC,true
+Bob,25,LA,false
+Charlie,35,Chicago,true

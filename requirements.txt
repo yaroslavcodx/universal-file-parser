@@ -1,0 +1,15 @@
+# Основные зависимости
+openpyxl>=3.1.0
+odfpy>=1.4.1
+pyyaml>=6.0
+toml>=0.10.2
+tomli>=2.0.1
+tomli_w>=1.0.0
+
+# Для CLI
+click>=8.1.0
+chardet>=5.0.0
+
+# Для тестов
+pytest>=7.4.0
+pytest-cov>=4.1.0

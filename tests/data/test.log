@@ -1,0 +1,8 @@
+2024-01-15 10:00:00 INFO Application started
+2024-01-15 10:00:01 DEBUG Loading configuration
+2024-01-15 10:00:02 INFO Connected to database
+2024-01-15 10:00:05 WARNING High memory usage detected
+2024-01-15 10:00:10 ERROR Failed to process request: timeout
+2024-01-15 10:00:15 INFO Request processed successfully
+2024-01-15 10:00:20 ERROR Database connection lost
+2024-01-15 10:00:25 CRITICAL System shutdown initiated
