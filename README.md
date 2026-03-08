@@ -1,4 +1,4 @@
-# Universal File Parser
+# MorphixFile
 
 Универсальный инструмент для парсинга, конвертации и анализа различных типов файлов.
 
@@ -274,7 +274,7 @@ for name, info in models.items():
 ## Структура проекта
 
 ```
-universal-file-parser/
+MorphixFile/
 ├── parser/
 │   ├── __init__.py
 │   ├── cli.py
